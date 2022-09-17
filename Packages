@@ -1,0 +1,11 @@
+Package: com.facebook.facebook2
+Version: 382.1
+Section: Utilities
+Maintainer: huytorres10
+Architecture: iphoneos-arm
+Filename: ./debs/Facebook2.deb
+Size: 103118968
+MD5sum: 73b891b2e8b32720d1e529d101417ad8
+Description: no comment
+Name: facebook2
+Author: huytorres10
